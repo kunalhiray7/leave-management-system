@@ -1,4 +1,4 @@
-# Leave Management System
+## Leave Management System
 
 ## How to run??
 1. `npm install`
